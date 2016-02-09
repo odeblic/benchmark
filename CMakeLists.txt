@@ -10,6 +10,7 @@ include_directories(.)
 add_executable(endl   endl.cpp)
 add_executable(atomic atomic.cpp)
 add_executable(new    new.cpp)
+add_executable(alu    alu.cpp)
 
 # remainging to implement :
 #
