@@ -2,7 +2,7 @@
 
 #include "benchmark.h"
 
-long long buffer[8*1024*1024];
+long long buffer[2*1024*1024];
 
 int main()
 {
