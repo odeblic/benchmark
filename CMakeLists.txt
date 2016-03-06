@@ -10,7 +10,7 @@ include_directories(.)
 add_executable(alu           alu.cpp)
 add_executable(atomic        atomic.cpp)
 #add_executable(cachemisses   cachemisses.cpp)
-add_executable(falsesharing  falsesharing.cpp)
+#add_executable(falsesharing  falsesharing.cpp)
 add_executable(endl          endl.cpp)
 add_executable(new           new.cpp)
 
